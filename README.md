@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning 😂
 - 🥅 2021 Goals: Developing an app to be heard in the world and learning artificial intelligence.
 - ⚡  Fun fact: I love to swim, play chess, play tennis and cycling.
-<br />
+
 ## What I'm doing now:
 I'm developing a project for improve myself.
 <br />
