@@ -18,6 +18,6 @@ I'm developing a project for improve myself.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />]
 [https://www.instagram.com/beytullahhozer/]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />]
-[https://mail.google.com/mail/u/0/#inbox]
+[]
 
 <br />
