@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Hey! 👋 I'm Beytullah.
-  I graduated from Fatih Sultan Mehmet Foundation University, Department of Electrical and Electronics Engineering.
+  I graduated from Fatih Sultan Mehmet Vakif University, Department of Electrical and Electronics Engineering.
 - 🔭 I’m currently working iOS Developer Jn on a user logins ands all documents.
 - 🌱 I’m currently learning 😂
 - 🥅 2021 Goals: Developing an app to be heard in the world and learning artificial intelligence.
