@@ -28,5 +28,5 @@ I'm developing a project for improve myself and at the same time, I'm working at
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beytullahozer&show_icons=true&locale=en&layout=compact" alt="beytullahozer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beytullahozer&show_icons=true&locale=en" alt="beytullahozer" /></p>
-<br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
