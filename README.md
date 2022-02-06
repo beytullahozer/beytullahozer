@@ -2,7 +2,7 @@
 
 ## Hey! 👋  I'm Beytullah.
   I graduated from Fatih Sultan Mehmet University.
-- 🔭 I’m currently working Swift iOS Developer on an user logins ands all documents.
+- 🔭 I’m currently working iOS Developer on user logins ands all documents.
 - 🌱 I’m currently learning and developing. 
 - 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence.
 - ⚡  Fun fact: I love to swim, play chess, driving and cycling.
