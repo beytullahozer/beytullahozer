@@ -32,9 +32,4 @@ I'm developing a project for improve myself and at the same time, I'm working at
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
 
 
-A digital electronic platform capable of absorbing thousands of talented students
-The largest application in the Kingdom of Saudi Arabia and the Arab Gulf, which serves all talents 
-and youth in all fields, including:
-Music, Events, Arts, Creative designs, Photography, Education, Digital and social networking, Restaurants ,
-Party equipment and visual and audio production.
-In a few minutes, you can add offers, add service reach clients, show requests have been reserved as soon as possible
+
