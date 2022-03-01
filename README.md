@@ -30,3 +30,5 @@ I'm developing a project for improve myself and at the same time, I'm working at
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beytullahozer&show_icons=true&locale=en" alt="beytullahozer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
+
+<p>
