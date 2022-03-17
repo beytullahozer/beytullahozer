@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hey! 👋  I'm Beytullah.
+## Hey! 👋  I'm Beytullah
   I graduated from Fatih Sultan Mehmet University.
 - 🔭 I’m currently working iOS Developer on user logins ands all documents.
 - 🌱 I’m currently learning and developing. 
