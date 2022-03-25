@@ -3,13 +3,13 @@
 ## Hey! 👋  I'm Beytullah
   I graduated from Fatih Sultan Mehmet University.
 - 🔭 I’m currently working iOS Developer on user logins ands all documents.
-- 🌱 I’m currently learning and developing. 
-- 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence.
-- ⚡  Fun fact: I love to swim, play chess, driving and cycling.
-- 📫 How to reach me **beytullahozer@outlook.com.tr**
+- 🌱 I’m learning and developing. 
+- 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
+- ⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
+- 📫 My Personal Email Address: **beytullahozer@outlook.com.tr**
 
 ## What I'm doing now:
-I'm developing a project for improve myself and at the same time, I'm working at Neon Apps.
+I'm developing a project for improve myself. At the same time, I'm working at Neon Apps with a lot of kind Apps.
 <br />
 
 
