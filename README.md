@@ -21,7 +21,7 @@ I'm developing a project for improve myself. At the same time, I'm working at Ne
 <a href="https://instagram.com/beyxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyxcode" height="30" width="40" /></a>
 <a href="https://medium.com/@beytullahhozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@beytullahhozer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/beytullahhozer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beytullahhozer" height="30" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/beytullahhozerr" target="blank"><img src="https://img.shields.io/twitter/follow/beytullahhozerr?logo=twitter&style=for-the-badge" alt="beytullahhozerr" /></a> </p>
+<p align="center"> <a href="https://twitter.com/beytullahhozerr" target="blank"><img src="https://img.shields.io/twitter/follow/beytullahhozerr?logo=twitter&style=for-the-badge" alt="beytullahhozerr" /></a> </p>
 
 ## Languages and Tools:
 
