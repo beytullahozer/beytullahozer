@@ -2,8 +2,8 @@
 
 ## Hey! 👋  I'm Beytullah
   I graduated from Fatih Sultan Mehmet University.
+- 🌱 I’m learning and developing Swift, SwiftUI.
 - 🔭 I’m currently working iOS Developer on user logins ands all documents.
-- 🌱 I’m learning and developing. 
 - 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
 - ⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
 - 📫 My Personal Email Address: **beytullahozer@outlook.com.tr**
@@ -42,7 +42,7 @@ href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beytullahozer&show_icons=true&locale=en" alt="beytullahozer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
 
 <b>
 <b>
