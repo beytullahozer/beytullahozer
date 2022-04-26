@@ -39,12 +39,11 @@ href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beytullahozer&show_icons=true&locale=en&layout=compact" alt="beytullahozer" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beytullahozer&show_icons=true&locale=en" alt="beytullahozer" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beytullahozer&" alt="beytullahozer" /></p>
 
-<b>
-<b>
+
  
   
