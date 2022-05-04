@@ -2,7 +2,7 @@
 
 ## Hey! 👋  I'm Beytullah
   I graduated from Fatih Sultan Mehmet University.
-- 🌱 I’m learning and developing Swift, SwiftUI.
+- 🌱 I’m developing Swift and learning SwiftUI.
 - 🔭 I’m currently working iOS Developer on user logins ands all documents.
 - 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
 - ⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
