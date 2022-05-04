@@ -10,7 +10,7 @@
 - 🌏 My Github is the account where I program swift and where my organizations are located.
 
 ## What I'm doing now:
-I'm developing apps by freelance. At the same time, I'm working at Neon Apps in a lot of kind apps.
+### I'm developing apps by freelance. At the same time, I'm working at Neon Apps in a lot of kind apps.
 <br />
 
 
