@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
 - ⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
 - 📫 My Personal Email Address: **beytullahozer@outlook.com.tr**
-- 🌏 My Github is the account where I program swift and where my organizations are located.
+- 📝 I used git as organization on behalf of the company. When I leave, the push git communication is deleted. It should be noted that I always use git.
 
 ## What I'm doing now:
 ### I'm developing apps by freelance. At the same time, I'm working at Neon Apps in a lot of kind apps.
