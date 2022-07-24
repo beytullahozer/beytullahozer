@@ -10,7 +10,7 @@
 - 📝 I used git as organization on behalf of the company. When I leave, the push git communication is deleted. It should be noted that I always use git.
 
 ## What I'm doing now:
-### I'm developing apps by freelance. At the same time, I'm working at Neon Apps in a lot of kind apps.
+### I am an application developer affiliated with an institution. At the same time, I am developing applications myself.
 <br />
 
 
