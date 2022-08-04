@@ -1,13 +1,14 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Hey! 👋🏻  I'm Beytullah.
-  I graduated from Fatih Sultan Mehmet University.
-- 🌱 I’m developing Swift and learning SwiftUI.
-- 🔭 I’m currently working iOS Developer on user logins ands all documents.
-- 🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
-- ⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
-- 📫 My Personal Email Address: **beytullahozer@outlook.com.tr**
-- 📝 I used git as organization on behalf of the company. When I leave, the push git communication is deleted. It should be noted that I always use git.
+
+🔭 I’m currently working in the company an iOS Developer on user logins ands all documents.
+🌱 I’m currently learning SwiftUI.
+🥅 2022 Goals: improvement iOS Developer, Developing an app to be heard in the world, learning artificial intelligence, MVVM and VIPER Design Patterns.
+⚡  Hobbies: Swim, Home Architecture, Singing, Guitar, Librariy Stores, Computer Architecture.
+💬 Ask me about anything about UIkit.
+📫 How to reach me: **beytullahozer@outlook.com.tr**
+📝 I used git as organization on behalf of the company. When I leave, the push git communication is deleted. It should be noted that I always use git.
 
 ## What I'm doing now:
 ### I am an application developer affiliated with an institution. At the same time, I am developing applications myself.
